@@ -16,7 +16,7 @@ module.exports =  (temp, product) => { // temp --> string or file, product --> o
         output = output.replace(/{%NOT_ORGANIC%}/g, 'card__detail--organic'); // Add the class for organic products
     }
  Console.log("Added elements")
-    return output;
+    return output; 
 };
 
 // this function does not have any name 
