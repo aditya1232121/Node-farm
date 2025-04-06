@@ -17,7 +17,7 @@ module.exports =  (temp, product) => { // temp --> string or file, product --> o
     }
  Console.log("Added elements")
     return output;  
-    Console.log("Adding elements more and more")
+    
 };
 
 // this function does not have any name 
