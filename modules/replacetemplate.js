@@ -21,3 +21,4 @@ module.exports =  (temp, product) => { // temp --> string or file, product --> o
 };
 
 // this function does not have any name 
+console.log('')
